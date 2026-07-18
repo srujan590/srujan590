@@ -72,3 +72,10 @@ Interactive dashboard showing sales, profit, KPIs, trends, and business insights
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujan590&theme=tokyonight" />
 </p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srujan590&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
