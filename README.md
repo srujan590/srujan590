@@ -27,6 +27,30 @@ I'm passionate about learning new technologies and building real-world projects.
 - React Projects
 
 ---
+---
+
+# 🚀 Featured Projects
+
+### 🎓 EduAccess
+A smart education platform for managing notes, question papers, study planner, authentication, and cloud storage.
+
+**Tech Used:** HTML • CSS • JavaScript • Firebase • Supabase
+
+---
+
+### 📚 NotesHub
+A notes sharing platform with upload approval workflow, cloud storage, and PDF management.
+
+**Tech Used:** HTML • CSS • JavaScript • Firebase • Supabase
+
+---
+
+### 📊 Power BI Sales Dashboard
+Interactive dashboard showing sales, profit, KPIs, trends, and business insights.
+
+**Tech Used:** Power BI • Excel • SQL
+
+---
 
 ## 📫 Contact
 
