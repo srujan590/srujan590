@@ -55,3 +55,8 @@ I'm passionate about learning new technologies and building real-world projects.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujan590&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srujan590&theme=tokyonight&hide_border=true" />
+</p>
