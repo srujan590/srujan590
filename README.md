@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Srujan Bagalakota
 
-<!--
-**srujan590/srujan590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Data Analyst | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about learning new technologies and building real-world projects. I enjoy solving problems, exploring data, and creating web applications that make an impact.
+
+---
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React
+- Firebase
+- Supabase
+- Python
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Data Analytics
+- Full Stack Development
+- Advanced SQL
+- Power BI Dashboards
+- React Projects
+
+---
+
+## 📫 Contact
+
+📧 Email: srujanbagalakota@gmail.com
+
+---
+
+⭐ **Learn. Build. Improve with Consistency...**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srujan590&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujan590&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
