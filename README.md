@@ -8,21 +8,13 @@ I'm passionate about learning new technologies and building real-world projects.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- React
-- Firebase
-- Supabase
-- Python
-- SQL
-- Power BI
-- Tableau
-- Excel
-- Git & GitHub
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,firebase,supabase,python,mysql,git,github,vscode&theme=dark" />
+
+</p>
 
 ---
 
