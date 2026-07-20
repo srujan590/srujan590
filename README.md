@@ -80,11 +80,7 @@ Interactive dashboard showing sales, profit, KPIs, trends, and business insights
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srujan590&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujan590&theme=tokyonight" />
@@ -104,3 +100,9 @@ Interactive dashboard showing sales, profit, KPIs, trends, and business insights
 <p align="center">
   <img src="https://raw.githubusercontent.com/srujan590/srujan590/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+---
+
+## 💡 Quote
+
+> **"Learn. Build. Improve with Consistency."**
