@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Srujan Bagalakota
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=srujan590&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ### 🚀 Aspiring Data Analyst | Aspiring Full Stack Developer
 
 Welcome to my GitHub profile!
