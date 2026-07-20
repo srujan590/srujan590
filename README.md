@@ -1,16 +1,24 @@
-# 👋 Hi, I'm Srujan Bagalakota
+<table>
+<tr>
+<td width="65%">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=srujan590&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# 👋 Hi, I'm Srujan Bagalakota
 
 ### 🚀 Aspiring Data Analyst | Aspiring Full Stack Developer
 
 Welcome to my GitHub profile!
 
-I'm passionate about learning new technologies and building real-world projects. I enjoy solving problems, exploring data, and creating web applications that make an impact.
+I'm passionate about learning new technologies and building real-world projects.
 
----
+</td>
+
+<td width="35%" align="center">
+
+<img src="assets/character.png" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
