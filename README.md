@@ -71,16 +71,6 @@ Interactive dashboard showing sales, profit, KPIs, trends, and business insights
 
 ---
 
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujan590&theme=tokyonight" />
-</p>
----
-
-
 ## 📈 Contribution Graph
 
 <p align="center">
