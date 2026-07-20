@@ -74,15 +74,16 @@ Interactive dashboard showing sales, profit, KPIs, trends, and business insights
 </p>
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srujan590&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srujan590&theme=tokyo-night&hide_border=true" />
+</p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srujan590/srujan590/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
